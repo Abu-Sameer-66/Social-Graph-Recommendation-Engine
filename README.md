@@ -31,6 +31,10 @@ It ingests raw, unstructured JSON logs and transforms them into a structured **E
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BBC1B9&center=true&vCenter=true&width=600&lines=Mapping+User+Topology...;Calculating+Edge+Weights...;Identifying+Triadic+Closures...;RECOMMENDATION+GENERATED."/>
+</div>
+
 ## 🧬 Algorithmic Logic
 *Visualizing the Recommendation Pipeline:*
 
