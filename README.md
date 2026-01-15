@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=0f0f0f,1c1c1c,d4af37,8b8000,f5f5f5&height=250&section=header&text=Social%20Graph%20Engine&fontSize=40&fontColor=0f2027&animation=fadeIn&fontAlignY=35&desc=GraphBased%20Recommendation%20Backend%20%7C%20Triadic%20Closure%20Algorithms&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=0f0f0f,1c1c1c,d4af37,8b8000,f5f5f5&height=250&section=header&text=Social%20Graph%20Engine&fontSize=40&fontColor=2F2413&animation=fadeIn&fontAlignY=35&desc=GraphBased%20Recommendation%20Backend%20%7C%20Triadic%20Closure%20Algorithms&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
