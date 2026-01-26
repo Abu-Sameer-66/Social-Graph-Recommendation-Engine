@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Algorithm-Graph_Theory-842E4C?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
   </a>
   <a href="https://github.com/Abu-Sameer-66">
-    <img src="https://img.shields.io/badge/Python-3.9+-ff0050?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3.9+-6D3C77?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https://github.com/Abu-Sameer-66">
     <img src="https://img.shields.io/badge/ETL_Pipeline-Optimized-success?style=for-the-badge"/>
