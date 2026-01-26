@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/Abu-Sameer-66">
-    <img src="https://img.shields.io/badge/Algorithm-Graph_Theory-?style4A6678=for-the-badge&logo=googleanalytics&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Algorithm-Graph_Theory-4A6678?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
   </a>
   <a href="https://github.com/Abu-Sameer-66">
     <img src="https://img.shields.io/badge/Python-3.9+-ff0050?style=for-the-badge&logo=python&logoColor=white"/>
